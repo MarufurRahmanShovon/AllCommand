@@ -1,0 +1,2 @@
+# AllCommand
+Github All command
